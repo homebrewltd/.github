@@ -2,7 +2,7 @@
 
 ~~We sell coffee~~. We train AI models.
 
-Homebrew is an AI research lab. Our mission is to build human-augmenting AIs that run energy-efficiently on earth-friendly hardware.
+Homebrew is an AI research lab. Our mission is to build human-augmenting AIs that run on energy-efficient hardware.
 
 We are the creators and lead maintainers of:
 
@@ -15,7 +15,7 @@ We train models:
 
 We run infra:
 
-- 💡 Menlo: AI Hardware (Coming Soon)
 - ⛩️ Xanadu: GPU Cluster (Coming Soon)
+- 💡 Menlo: AI Hardware (Coming Soon)
 
 We are a remote-first lab, with data centers in Taiwan, Singapore, and Hanoi.
