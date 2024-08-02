@@ -7,7 +7,7 @@ Homebrew is an AI research lab. Our mission is to build human-augmenting AIs tha
 We are the creators and lead maintainers of:
 
 - 👋 [Jan](https://github.com/janhq/jan): Privacy-first Personal AI (>1 million downloads)
-- 🤖 [Cortex](https://github.com/janhq/cortex): Local AI Engine
+- 🤖 [Cortex](https://github.com/janhq/cortex): Self-hosted AI Platform
 
 We train models:
 
